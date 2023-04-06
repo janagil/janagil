@@ -11,7 +11,7 @@
   
 ## 👩‍💻 About Me
 I'm Janaína Gil, I'm a Science and Technology and Computer Science student from Brazil.
-I'm studying mostly Java at the moment and looking for an Intership. </br>
+I'm learning more about back-end at the moment and looking for an Intership. </br>
 
 
 ## :hammer_and_wrench: Languages and Tools
